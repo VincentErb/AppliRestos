@@ -1,0 +1,14 @@
+C:\Users\vince\Documents\INSA\Appli\AppliRestos\Appli_Restos\Appli_Restos\Appli_Restos\bin\Debug\netstandard2.0\Appli_Restos.deps.json
+C:\Users\vince\Documents\INSA\Appli\AppliRestos\Appli_Restos\Appli_Restos\Appli_Restos\bin\Debug\netstandard2.0\Appli_Restos.dll
+C:\Users\vince\Documents\INSA\Appli\AppliRestos\Appli_Restos\Appli_Restos\Appli_Restos\bin\Debug\netstandard2.0\Appli_Restos.pdb
+C:\Users\vince\Documents\INSA\Appli\AppliRestos\Appli_Restos\Appli_Restos\Appli_Restos\obj\Debug\netstandard2.0\Appli_Restos.csprojAssemblyReference.cache
+C:\Users\vince\Documents\INSA\Appli\AppliRestos\Appli_Restos\Appli_Restos\Appli_Restos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vince\Documents\INSA\Appli\AppliRestos\Appli_Restos\Appli_Restos\Appli_Restos\obj\Debug\netstandard2.0\ForgottenPage.xaml.g.cs
+C:\Users\vince\Documents\INSA\Appli\AppliRestos\Appli_Restos\Appli_Restos\Appli_Restos\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\vince\Documents\INSA\Appli\AppliRestos\Appli_Restos\Appli_Restos\Appli_Restos\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+C:\Users\vince\Documents\INSA\Appli\AppliRestos\Appli_Restos\Appli_Restos\Appli_Restos\obj\Debug\netstandard2.0\Appli_Restos.csproj.CoreCompileInputs.cache
+C:\Users\vince\Documents\INSA\Appli\AppliRestos\Appli_Restos\Appli_Restos\Appli_Restos\obj\Debug\netstandard2.0\Appli_Restos.AssemblyInfoInputs.cache
+C:\Users\vince\Documents\INSA\Appli\AppliRestos\Appli_Restos\Appli_Restos\Appli_Restos\obj\Debug\netstandard2.0\Appli_Restos.AssemblyInfo.cs
+C:\Users\vince\Documents\INSA\Appli\AppliRestos\Appli_Restos\Appli_Restos\Appli_Restos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vince\Documents\INSA\Appli\AppliRestos\Appli_Restos\Appli_Restos\Appli_Restos\obj\Debug\netstandard2.0\Appli_Restos.dll
+C:\Users\vince\Documents\INSA\Appli\AppliRestos\Appli_Restos\Appli_Restos\Appli_Restos\obj\Debug\netstandard2.0\Appli_Restos.pdb
